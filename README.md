@@ -1,2 +1,3 @@
 # Game-Risk-dice-roller
-Risk is a complex board game produced by Hasbro that involves both luck and skill.  The goal is simple: take over the world.  Despite this simple goal, the game is very complicated and dynamic. 
+
+Risk is a complex board game produced by Hasbro that involves both luck and skill.  The goal is simple: take over the world.  Despite this simple goal, the game is very complicated and dynamic. Players attempt to take over the world by eliminating all other players.  Players are eliminated when they lose all of their troops on the game board.  Players must be skilled in troop deployment and must be aware of the underlying probabilities present in the game.  This python sript simulates the  rules, probabilities, and general strategies of the game and allows users to play the game totally virtually 
